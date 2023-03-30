@@ -9,13 +9,10 @@ My favorite food is sushi and my favorite color is teal.
 
 My hobbies include:
 
--Tea
-
--Video games
-
--Karate
-
--Cooking
+- Tea
+- Video games
+- Karate
+- Cooking
 
 Feel free to look me up on [Linkedin](https://www.linkedin.com/in/rileyestes/)
 I'm excited to meet you all this quarter!
